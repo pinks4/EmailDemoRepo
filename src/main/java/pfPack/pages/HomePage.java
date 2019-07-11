@@ -22,7 +22,7 @@ public class HomePage extends BasePage {
 	@FindBy(xpath="(//p[contains(text(),'Mail')])[1]")
 	public WebElement mail;
 	
-	@FindBy(xpath="//div[@class='tc']/a/span")
+	@FindBy(xpath="//div[@class='tc']/a/spanxyz")
 	public WebElement cliq;
 	
 	public HomePage(WebDriver driver, ExtentTest eTest) {
