@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18780" started-at="2019-07-03T16:35:52Z" finished-at="2019-07-03T16:36:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18780" started-at="2019-07-03T16:35:52Z" finished-at="2019-07-03T16:36:11Z">
+      <class name="pfPack.tests.LoginTest">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:pfPack.tests.LoginTest@9273a8]" name="testLogin" duration-ms="16563" started-at="2019-07-03T16:35:53Z" finished-at="2019-07-03T16:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:pfPack.tests.LoginTest@9273a8]" name="testClosure" is-config="true" duration-ms="2177" started-at="2019-07-03T16:36:09Z" finished-at="2019-07-03T16:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+      </class> <!-- pfPack.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
